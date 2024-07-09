@@ -1,0 +1,10 @@
+{
+    "updates": {
+        "windows": {
+          "open-url": "",
+          "latest-version": "1.0",
+          "download-url": "https://raw.githubusercontent.com/DevPetus/desktopGroupe2/master/test.jpg",
+          "changelog": "This is an example changelog for Windows. Go on...",
+          "mandatory": true
+        }
+}
